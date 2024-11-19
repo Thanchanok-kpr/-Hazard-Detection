@@ -1,1 +1,4 @@
-# -Hazard-Detection
+# Hazard-Detection
+การวิเคราะห์ข้อมูลเพื่อจำแนกประเภทข้อความว่าพูดถึงเหตุการณ์ที่เกี่ยวข้องกับสาธารณภัยหรือไม่ และแยกข้อความในแต่ละประเภทออกเป็นหมวดหมู่ หรือไม่ โดยการรวบรวมข้อความหรือโพสต์บน X (เอ็กซ์) ในรูปแบบประโยคจำนวน 4,000 ประโยค และอัลกอริทึมที่นำมาใช้มีดังนี้ Logistic Regression, Random Forest, Decision Tree และ k Nearest Neighbors, Neural Network Model, Convolutional Neural Network Model, Recurrent Neural Network Model และ Model with Dropout <br>
+#PROJECT IN ARTIFICIAL INTELLIGENCE FOR DATA ANALYTICS <br>
+<b>ทักษะ: </b> Python (Programming Language) · Natural Language Processing (NLP) · Artificial Intelligence (AI) · Chatbots · Programming · Machine Learning · Deep Learning · Data Analysis · Data Cleaning · Data Modeling · Leadership · Teamwork · Problem Solving · Project Management · Presentations
